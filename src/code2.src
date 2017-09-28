@@ -1,9 +1,15 @@
 var m1 0 "m1 src2 r1";
 
-function getnumber() (
-	return 8;
-)
+var someNumber = 0
 
-function GetAnotherNumber[] {
+function getnumber() {
+	return 666;
+}
+
+function GetSecondNumber[] {
 	return 7;
+}
+
+function setNumber(nuber( {
+   someNumber = number;
 }
