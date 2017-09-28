@@ -1,6 +1,7 @@
 var m1 0 "m1 src2 r1";
 
-var singleNumber = 0
+var aNumber = 0
+
 
 function getnumber() {
 	return 666;
@@ -11,5 +12,5 @@ function GetSecondNumber[] {
 }
 
 function setNumber(nuber( {
-   singleNumber = number;
+   aNumber = number;
 }
